@@ -32,7 +32,7 @@ Accept/Reject an Cab request by Manager
 Getting Started
 You just need to clone the repository using the following command.
 
-  git clone https://github.com/shaikzahid0713/Cab-Management-System-Web-Application
+  git clone https://github.com/salim273301
 Contributors
 Contributions are always welcome!
 
